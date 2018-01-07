@@ -1,5 +1,8 @@
 {
   "name": "react_test",
+  "config":{
+    "port": "8080"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
